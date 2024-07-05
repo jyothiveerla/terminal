@@ -8,7 +8,6 @@ import {
   TableHeader,
   ActionButton,
 } from "@adobe/react-spectrum";
-import Edit from "@spectrum-icons/workflow/Edit";
 import Home from "../Home";
 import Header from "../Header";
 import "./index.css";
