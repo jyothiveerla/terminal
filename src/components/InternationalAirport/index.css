@@ -1,0 +1,17 @@
+.international_container {
+  display: flex;
+  flex-direction: column;
+}
+.terminal_container {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+}
+.terminal {
+  display: flex;
+  flex-direction: row;
+}
+.sub_terminal {
+  display: flex;
+  flex-direction: column;
+}

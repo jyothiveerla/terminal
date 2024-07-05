@@ -1,0 +1,31 @@
+.air_container {
+  display: flex;
+  flex-direction: column;
+}
+.row_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-right: 5px;
+}
+.airports {
+  display: flex;
+  flex-direction: column;
+}
+.row_airports {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+}
+.button {
+  height: 46px;
+  width: 200px;
+  background-color: #000000;
+  color: #ffffff;
+}
+.table_container {
+  display: flex;
+  flex-direction: row;
+}
